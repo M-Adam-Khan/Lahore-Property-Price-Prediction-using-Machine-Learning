@@ -1,0 +1,14 @@
+Flask
+Flask-WTF
+python-dotenv
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+joblib
+nltk
+beautifulsoup4
+requests
+pickle-mixin
+Flask-Logging
