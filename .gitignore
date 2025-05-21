@@ -20,6 +20,3 @@ venv/
 
 # Python cache files
 *.pyc
-
-# Model files
-models/
