@@ -8,18 +8,17 @@ venv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+temp_auto_push.bat
 
 # Environment variables
 .env
 
 # VSCode settings folder
-.vscode/
 
 # macOS files
 .DS_Store
 
 # Python cache files
 *.pyc
-
-# Model files
-models/
+.gitignore
+temp_interactive_push.bat
